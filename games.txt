@@ -1,0 +1,22 @@
+AVI1USPBNG@"Virtual UEA Tour"@virtualReality@0@3@headsetOnly
+AVSKVMRB9U@"Dance like a Professor"@virtualReality@800@12@fullBodyTracking 
+CBGCR27FQM@"Reaction Test 2000"@cabinet@40@yes
+AX5YNVUJA9@"Darts"@active@200@16
+AVLD1ZDNXE@"Virtual Petting Zoo"@virtualReality@400@3@headsetAndController
+AL2ETWHG0Q@"Beer Pong"@active@1000@18
+CXPVC0DBXU@"Clock Crisis"@cabinet@220@yes
+CNQZPI7G5E@"Plumber Kart 8"@cabinet@200@no
+AV55GWU6PS@"Fly Like a Seagull!"@virtualReality@350@3@headsetOnly
+CAPSD7TLC6@"Plonky Kong"@cabinet@200@no
+AHW0HK1F03@"Foosball"@active@80@3
+AV9OPS1LRT@"VR Paintball"@virtualReality@1000@12@fullBodyTracking
+CPVOHUH0ZH@"D'Arcy Thompson Pinball"@cabinet@50@yes
+A4FJTZLIVA@"American Pool"@active@100@12
+C7S6SYBL8R@"CMP Chomp Man"@cabinet@120@no
+AJFS153KZV@"Snooker"@active@120@12
+AVX5KN5T3O@"Snowball Fight"@virtualReality@400@12@fullBodyTracking
+AN234FQD9D@"Axe Throwing"@active@2000@18
+AMURG8FXMK@"Football Pool"@active@500@3
+CQLS3YES0M@"Street Wrestler V"@cabinet@140@no
+AVPO9GJA1Z@"Pickaxe Crafting Simulator"@virtualReality@500@3@headsetAndController
+AD65E3UJQJ@"Air Hockey"@active@180@12
